@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
-using Com.Web.Model.Model;
+using Com.Web.Model;
 using System.Data;
+using Com.Web.Model.Model;
 
 namespace Com.Web.Repository.User
 {
